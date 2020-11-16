@@ -27,7 +27,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1457fdbc-081b-4484-b9bb-3ea3b0e6e1a0" name="Default Changelist" comment="a" />
+    <list default="true" id="1457fdbc-081b-4484-b9bb-3ea3b0e6e1a0" name="Default Changelist" comment="a">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +42,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kL1ampFJzSAAIJe0e71coK4qRH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
