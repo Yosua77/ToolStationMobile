@@ -26,10 +26,9 @@ class AccountController extends Controller
      */
     public function store(Request $request)
     {
-        $request->password = hash('SHA-512',$request->password);
-        User::create($request->only(['nama','email','password']));
+        // $request->password = hash('SHA-512', $request->password);
+        // User::create($request->only(['nama', 'email', 'password']));
         return Account::insert($request->all());
-
     }
 
     /**

@@ -29,6 +29,12 @@
   <component name="ChangeListManager">
     <list default="true" id="1457fdbc-081b-4484-b9bb-3ea3b0e6e1a0" name="Default Changelist" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/AccountController.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/AccountController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/database/migrations/2020_11_16_061102_create_accounts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/database/migrations/2020_11_16_061102_create_accounts_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/toolstationmobile/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/toolstationmobile/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -14,8 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::prefix('/v1')->group(function(){
-    Route::apiResource('accounts','AccountController');
+Route::prefix('/v1')->group(function () {
+    Route::apiResource('accounts', 'AccountController');
 });
 
 
@@ -25,6 +25,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 
 //sek blum selesai
-Route::get('/login',function(Request $request){
-    $credentials = $request->only(['name','email','password']);
+Route::get('/login', function (Request $request) {
+    $credentials = $request->only(['name', 'email', 'password']);
 });
