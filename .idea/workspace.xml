@@ -35,11 +35,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[emulator-5554]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,13 +177,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="296" key="#Notifications" timestamp="1605578295432">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="654" y="296" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1605578295432" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605532721483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605532721483" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1605465314973">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="335" y="136" key="RollbackChangesDialog" timestamp="1605577483826">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="335" y="136" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1605577483826" />
+    <state x="369" y="137" key="SettingsEditor" timestamp="1605577189319">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="369" y="137" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605577189319" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605465314973" />
   </component>
 </project>
