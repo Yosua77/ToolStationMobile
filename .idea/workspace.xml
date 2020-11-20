@@ -29,11 +29,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1457fdbc-081b-4484-b9bb-3ea3b0e6e1a0" name="Default Changelist" comment="a">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/AccountController.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/AccountController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/database/migrations/2020_11_16_061102_create_accounts_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/database/migrations/2020_11_16_061102_create_accounts_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ToolStationWebServices/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/ToolStationWebServices/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/toolstationmobile/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/toolstationmobile/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,21 +179,27 @@
     <option name="LAST_COMMIT_MESSAGE" value="a" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="111" key="#Inspections" timestamp="1605893613306">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="395" y="111" key="#Inspections/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605893613306" />
     <state x="654" y="296" key="#Notifications" timestamp="1605578295432">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="654" y="296" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1605578295432" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605532721483">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="592" y="228" key="FileChooserDialogImpl" timestamp="1605853189381">
+      <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="592" y="228" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605853189381" />
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605532721483" />
     <state x="335" y="136" key="RollbackChangesDialog" timestamp="1605577483826">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="335" y="136" key="RollbackChangesDialog/0.0.1536.864@0.0.1536.864" timestamp="1605577483826" />
-    <state x="369" y="137" key="SettingsEditor" timestamp="1605577189319">
+    <state x="369" y="137" key="SettingsEditor" timestamp="1605891808223">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
+    <state x="369" y="137" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1605891808223" />
     <state x="369" y="137" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1605577189319" />
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605465314973" />
   </component>
